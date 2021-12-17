@@ -1,4 +1,4 @@
 # SUNON_Testkit
 
-  - APP       :v01_02
-  - Firmware  :v01_03
+  - APP       :v01_03
+  - Firmware  :v01_04
