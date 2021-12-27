@@ -1,0 +1,3 @@
+sunon_test:010600
+firmware_update:010500
+firmware:010400
